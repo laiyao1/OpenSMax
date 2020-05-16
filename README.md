@@ -13,7 +13,7 @@ multi classification or two classification, the ratio of class used in the train
 `python run.py`
 
 -  **Unknown Detection**:
-Updating.
+Run the test_unknown_acc.py file.
 
 We support only LSTM(SLD) + One-hot(TLD) now. We will update other models as quickly as possible.
 
